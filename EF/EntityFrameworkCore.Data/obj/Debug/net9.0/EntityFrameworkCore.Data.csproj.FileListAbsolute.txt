@@ -1,0 +1,5 @@
+C:\Users\DELL\OneDrive\Desktop\Programming\C#\EF\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Programming\C#\EF\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Programming\C#\EF\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Programming\C#\EF\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Programming\C#\EF\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.csproj.CoreCompileInputs.cache
